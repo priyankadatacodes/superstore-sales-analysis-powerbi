@@ -3,13 +3,27 @@
 An interactive **Power BI dashboard** analyzing Superstore sales performance, built after cleaning and preparing data in **Excel**. This project showcases my ability to perform **data cleaning, visualization, and business insights generation** as part of an end-to-end data analytics workflow.
 
 ---
-
 ## Project Objective
 
 To analyze Superstore sales data and derive actionable insights on **sales performance, profitability, and customer segments**.
 
 ---
 
+
+## Tools Used
+
+- **Microsoft Excel** – Data cleaning & preparation  
+- **Power BI** – Dashboard creation & visualization
+
+---
+
+# **Power BI dashboard Output**
+
+!<img width="1435" height="812" alt="Screenshot 2025-09-19 153239" src="https://github.com/user-attachments/assets/f4bc710d-741d-4ae3-8366-3624ee6b3040" />
+
+!<img width="1436" height="808" alt="Screenshot 2025-09-19 153302" src="https://github.com/user-attachments/assets/353cb493-227c-46f2-b64f-c604214de68e" />
+
+---
 ## Dashboard Highlights
 
 - Interactive filters for **region, category, and time period**  
@@ -37,10 +51,6 @@ To analyze Superstore sales data and derive actionable insights on **sales perfo
 
 ---
 
-## Tools Used
-
-- **Microsoft Excel** – Data cleaning & preparation  
-- **Power BI** – Dashboard creation & visualization  
 
 ---
 
